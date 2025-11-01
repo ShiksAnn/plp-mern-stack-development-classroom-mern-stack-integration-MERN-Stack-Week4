@@ -48,7 +48,6 @@ MERN-Blog/
 │
 └── README.md
 
-
 🧩 Features Implemented
 
 ✅ CRUD Operations
