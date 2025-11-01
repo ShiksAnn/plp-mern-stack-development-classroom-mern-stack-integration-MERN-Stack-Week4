@@ -21,6 +21,7 @@ Styling	CSS / Tailwind (optional)
 Utilities	dotenv, cors, nodemon, mongoose
 
 ⚙️ Directory Structure
+```
 MERN-Blog/
 ├── client/                 # Frontend (React + Vite)
 │   ├── src/
